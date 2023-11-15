@@ -1,0 +1,15 @@
+.slider_container{
+    display: flex;
+    /* width: 98%; */
+    gap: 20px;
+}
+img{
+   
+    width: 200px;
+    height: 160px;
+}
+.threediv{
+   object-fit: cover;
+   width: 200px;
+   aspect-ratio: 1/1;
+}
